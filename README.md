@@ -1,4 +1,4 @@
-Hello world, i will graduate soon with a Bachelor in Economic Informatics and i am passionate about Software Development and Project Management practices and methodologies.
+Hello world, i will graduate soon with a Bachelor in Economic Informatics and i am passionate about Software Development and Project Management practices and methodologies such as Agile.
 
 <!--
 **CatalinCaldararu/CatalinCaldararu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
