@@ -1,4 +1,4 @@
-Hello world, I have a Bachelor in Economic Informatics and I am enrolled in a Master Degree where I study about Informatic Systems for Management. I am passionate about Software Development and Project Management practices and methodologies.
+Hello world, I have a Bachelor in Economic Informatics and I am enrolled in a Master where I study about Informatic Systems for Management. I am passionate about Software Development and Project Management practices and methodologies.
 
 <!--
 **CatalinCaldararu/CatalinCaldararu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
