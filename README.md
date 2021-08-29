@@ -11,7 +11,7 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="edx" width="22px" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />][edx]
+[<img align="left" alt="edx" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />][edx]
 
 [linkedin]: https://www.linkedin.com/in/catalin-caldararu/
 [coursera]: https://www.linkedin.com/in/catalin-caldararu/
