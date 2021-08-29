@@ -14,8 +14,9 @@
 [<img align="left" alt="edx" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>][coursera]
 [<img align="left" alt="edx" src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" />][pluralsight]
 [<img align="left" alt="edx" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />][udemy]
-<br>
+[<img align="left" alt="edx" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />][freeCodeCamp]
 
+<br>
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -25,3 +26,4 @@
 [pluralsight]:https://www.linkedin.com/in/catalin-caldararu/
 [udemy]: https://www.linkedin.com/in/catalin-caldararu/
 [medium]: https://www.linkedin.com/in/catalin-caldararu/
+[freeCodeCamp]: https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
