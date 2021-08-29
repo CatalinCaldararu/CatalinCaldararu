@@ -22,11 +22,14 @@
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />][Whatsapp]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=whitek" />][Whatsapp]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />][Facebook]
-[<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />][Linkedin]
 
 <br />
+<br />
+
+[<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />][Linkedin]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />][Telegram]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />][Whatsapp]
+
 <br />
 
 ### Connect with me:
