@@ -1,6 +1,6 @@
 ### Hello world, I'm Catalin  👋
 
-## I am an enthusiast Software Developer with a great passion for people and technology!
+## I am an enthusiast Software Developer with a passion for people and technology!
 - 🌱 I am currently learning as much as I can 🤣
 - 👯 I am an active PMI member
 - 👯 I am an active volunteer in an NGO
@@ -22,10 +22,12 @@
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />][Whatsapp]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=whitek" />][Whatsapp]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />][Facebook]
+[<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />][Facebook]
 
 <br />
 <br />
 
+[<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />][Whatsapp]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />][Linkedin]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />][Telegram]
 [<img align="left" alt="freeCodeCamp" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />][Whatsapp]
