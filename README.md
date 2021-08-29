@@ -3,12 +3,12 @@
 ## I am a Software Developer with a passion for people and technology!
 - 🌱 I am currently learning as much as I can 🤣
 - 👯 I am an active PMI member (Project Management Institute)
-- 👯 I am an active IT HR volunteer in an NGO
+- ⚡ I am an active IT HR volunteer in an NGO
 - :mortar_board: I have a Bachelor's in Economic Informatics
 - :mortar_board: I am enrolled in a Master's Degree in Informatics Systems for Management
-- ⚡ 2020 Goals: To learn more about Software Development, mainly Database Systems
-- ⚡ 2021 Goals: To get my PSM1 and CAPM certifications
-- ⚡ Fun fact: I like coffee (a lot)
+- :dart: 2020 Goals: To learn more about Software Development, mainly Database Systems
+- :dart: 2021 Goals: To get my PSM1 and CAPM certifications
+- :coffee: Fun fact: I like coffee (a lot)
 
 ### E-learning enthusiast on the following:
 [<img align="left" alt="edx" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />][edx]
