@@ -8,7 +8,7 @@
 - :mortar_board: I am enrolled in a Master's Degree in Informatics Systems for Management
 - :dart: 2020 Goals: To learn more about Software Development, mainly Database Systems
 - :dart: 2021 Goals: To get my PSM1 and CAPM certifications
-- :coffee: Fun fact: I like coffee (a lot)
+- :coffee: Fun fact: I like iced coffee (a lot)
 
 ### E-learning enthusiast on the following:
 [<img align="left" alt="edx" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />][Linkedin]
