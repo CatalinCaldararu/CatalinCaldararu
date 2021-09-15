@@ -6,8 +6,8 @@
 - ⚡ I am an active IT Human Resources Volunteer in an NGO
 - :mortar_board: I have a Bachelor's in Economic Informatics
 - :mortar_board: I am enrolled in a Master's Degree in Informatics Systems for Management
-- :dart: 2020 Goals: To learn more about Software Development, mainly Database Systems
-- :dart: 2021 Goals: To get my PSM1 and CAPM certifications
+- :dart: 2020 Goals: To learn more
+- :dart: 2021 Goals: To learn x2
 - :coffee: Fun fact: I like iced coffee (a lot)
 
 ### Connect with me:
