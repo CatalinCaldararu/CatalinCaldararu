@@ -1,14 +1,25 @@
-### Contact me:
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
-<br>
+## Hello, I'm Catalin.
+![](https://visitor-badge.laobi.icu/badge?page_id=CatalinCaldararu.CatalinCaldararu) [![Github](https://img.shields.io/github/followers/CatalinCaldararu?label=Followers&logo=Github)](https://github.com/CatalinCaldararu)
 
+
+## 🎓 I'm a MSc student in Information Systems for Management and Enterprise Resource Planning at the Bucharest Academy of Economic Studies.
+
+- 🔭 I’m currently developing a few projects and I am working as a Software Engineer with .NET & Vanilla JS.
+- 🌱 I also like Software Design and IT Project Management, I am a PMI member.
+- ⚡ Fun fact: I like coffee & photography.
+
+
+<!--## 🧰 Languages and Tools:
+<br /> -->
+
+## 🏆: Github Stats:
 
 <div>
+<a href="https://github-readme-stats.vercel.app/api?username=CatalinCaldararu&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CatalinCaldararu&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinCaldararu&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinCaldararu&hide=php&theme=tokyonight" />
 </a>
 </div>
 
-
-[Linkedin]: https://www.linkedin.com/in/catalin-caldararu/
-[medium]: https://www.linkedin.com/in/catalin-caldararu/
