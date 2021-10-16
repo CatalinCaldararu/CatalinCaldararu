@@ -1,4 +1,4 @@
-## Hello, I'm Catalin.
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=CatalinCaldararu.CatalinCaldararu) [![Github](https://img.shields.io/github/followers/CatalinCaldararu?label=Followers&logo=Github)](https://github.com/CatalinCaldararu)
 
 ![named-cover](https://user-images.githubusercontent.com/22495045/137598636-a3907398-f388-4ea7-b2da-66a854e1ea8d.jpg)
