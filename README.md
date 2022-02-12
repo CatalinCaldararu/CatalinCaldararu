@@ -1,7 +1,3 @@
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CatalinCaldararu.CatalinCaldararu) [![Github](https://img.shields.io/github/followers/CatalinCaldararu?label=Followers&logo=Github)](https://github.com/CatalinCaldararu)
-
-
 ![branding-complete](https://user-images.githubusercontent.com/22495045/137598935-0c0d8d5b-dfee-411a-be3f-5c77af5c057f.jpg)
 
 
