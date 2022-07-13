@@ -2,7 +2,7 @@
 
 
 
-## 🎓 I'm a Junior .NET Software Developer, PSM1 and MSc student in Information Systems at the Bucharest Academy of Economic Studies.
+## 🎓 I'm a Junior .NET Software Developer, PSM1 and MSc Student in Information Systems at the Bucharest Academy of Economic Studies.
 
 ## 🏆: Github Stats:
 
