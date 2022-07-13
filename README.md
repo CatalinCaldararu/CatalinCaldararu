@@ -6,11 +6,6 @@
 
 ## 🏆: Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinCaldararu&hide=php&theme=great-gatsby">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatalinCaldararu&hide=php&theme=github_dark" />
-</a>
-
 <a href="https://github-readme-stats.vercel.app/api?username=CatalinCaldararu&theme=github_dark">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CatalinCaldararu&count_private=true&show_icons=true&theme=github_dark" />
 </a>
