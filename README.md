@@ -1,6 +1,5 @@
-![branding-complete](https://user-images.githubusercontent.com/22495045/137598935-0c0d8d5b-dfee-411a-be3f-5c77af5c057f.jpg)
 
-
+![imagine](https://user-images.githubusercontent.com/22495045/188123524-76a03a47-c8f2-4f3a-8940-14edfd8a1b0c.jpg)
 
 ## 🎓 I'm a Junior .NET Software Developer, PSM1 and MSc Student in Information Systems at the Bucharest Academy of Economic Studies.
 
